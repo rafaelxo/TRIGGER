@@ -91,7 +91,7 @@ Desenvolvido em **Python** utilizando manipulação de tela em baixo nível com 
 ### ⚙️ Parâmetros Disponíveis
 
 | Parâmetro | Padrão | Descrição |
-|: ----------|:-------|:----------|
+|:----------|:-------|:----------|
 | `--area` | 100 | Tamanho da área de detecção (pixels) |
 | `--sensibilidade` | 200 | Sensibilidade:  150=alta, 200=média, 230=baixa |
 | `--intervalo` | 0.01 | Intervalo mínimo entre cliques (segundos) |
@@ -144,7 +144,7 @@ Isso garante que apenas tons amarelos/dourados sejam detectados.
 ### ⚡ Benchmarks
 
 | Configuração | FPS Teórico | FPS Real | Latência |
-|:-------------|: ------------|:---------|:---------|
+|:-------------|:------------|:---------|:---------|
 | Padrão (100 FPS) | 100 | ~95-100 | ~10ms |
 | Alta (120 FPS) | 120 | ~110-120 | ~8ms |
 | Máxima (200 FPS) | 200 | ~150-180 | ~5-7ms |
