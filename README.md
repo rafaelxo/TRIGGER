@@ -50,7 +50,7 @@ Desenvolvido em **Python** utilizando manipulação de tela em baixo nível com 
 ### 📦 Dependências
 
 | Biblioteca | Versão | Uso |
-|: -----------|:-------|:----|
+|:-----------|:-------|:----|
 | 🐍 **Python** | 3.8+ | Linguagem base |
 | ⌨️ **keyboard** | Latest | Captura de teclas e hotkeys |
 | 🖱️ **pyautogui** | Latest | Simulação de cliques |
