@@ -3,7 +3,7 @@
 # 🎯 TRIGGER - Detector de Cor Automático
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8+-blue? style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/github/repo-size/rafaelxo/TRIGGER?style=for-the-badge&color=orange" alt="Repo Size">
   <img src="https://img.shields.io/github/stars/rafaelxo/TRIGGER?style=for-the-badge" alt="Stars">
   <img src="https://img.shields.io/github/last-commit/rafaelxo/TRIGGER?style=for-the-badge&color=red" alt="Last Commit">
